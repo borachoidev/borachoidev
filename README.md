@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```jsx
+const september21st = {
+  name : "Bora Choi",
+  skils : ["JS","HTML","CSS","React"],
+  portfolio : "https://www.borachoi.me",
+  blog : "https://www.notion.so/Code-your-Dream-ec3e11e8b61040e0b1fabe88e649cf92"
+}
+```
