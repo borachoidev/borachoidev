@@ -16,7 +16,7 @@ const september21st = {
   name : "Bora Choi",
   skills : ["TypeScript","React","JavaScript","Next.js","HTML","CSS"],
   portfolio : "https://borachoi.me",
-  blog : "https://borachoi.dev"
+  blog : "https://blog.borachoi.dev"
 }
 ```
 
