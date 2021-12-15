@@ -6,7 +6,7 @@
 
 
 
-[![blog](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://borachoi.dev/)
+[![blog](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://blog.borachoi.dev/)
 [![linkedIn](https://img.shields.io/badge/BoraChoi-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bora-aspyn-choi/)
 [![email](https://img.shields.io/badge/tsuilook@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tsuilook@gmail.com)
 
