@@ -12,7 +12,7 @@
 
 
 ```jsx
-const september21st = {
+const bora = {
   name : "Bora Choi",
   skills : ["TypeScript","React","JavaScript","Next.js","HTML","CSS"],
   portfolio : "https://borachoi.me",
