@@ -8,14 +8,14 @@
 
 [![blog](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://blog.borachoi.dev/)
 [![linkedIn](https://img.shields.io/badge/BoraChoi-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bora-aspyn-choi/)
-[![email](https://img.shields.io/badge/tsuilook@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tsuilook@gmail.com)
+[![email](https://img.shields.io/badge/contact@borachoi.dev-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contact@borachoi.dev)
 
 
 ```jsx
 const bora = {
   name : "Bora Choi",
   skills : ["TypeScript","React","JavaScript","Next.js","HTML","CSS"],
-  portfolio : "https://borachoi.me",
+  portfolio : "https://portfolio.borachoi.dev",
   blog : "https://blog.borachoi.dev"
 }
 ```
