@@ -1,24 +1,17 @@
-### Hi, I'm Bora Choi 👋
- <div align=center>
+### Hi, I'm Bora, product engineer👋
+
+
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseptember21st&count_bg=%23A944DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/borachoidev"
+  width="600"
+  height="300"
+/>
+</a>
 
-[![blog](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://blog.borachoi.dev/)
-[![linkedIn](https://img.shields.io/badge/BoraChoi-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bora-aspyn-choi/)
-[![email](https://img.shields.io/badge/contact@borachoi.dev-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:contact@borachoi.dev)
-
-
-```jsx
-const bora = {
-  name : "Bora Choi",
-  skills : ["TypeScript","React","JavaScript","Next.js","HTML","CSS"],
-  portfolio : "https://portfolio.borachoi.dev",
-  blog : "https://blog.borachoi.dev"
-}
-```
 
 ## Skills
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
@@ -29,4 +22,6 @@ const bora = {
 ![tailwindcss](https://img.shields.io/badge/TailwindCss-38B2AC?style=flat-square&logo=Tailwind-Css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseptember21st&count_bg=%23A944DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
